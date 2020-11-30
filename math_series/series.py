@@ -1,6 +1,6 @@
 """
 Fibonacci: in this function, a sequence is generated based on the summation of the first two numbers, which are 0 and 1. 
-It is implemeneted using recursion with 2 base cases, 0 and 1.
+It is implemented using recursion with 2 base cases, 0 and 1.
 """
 def  fibonacci(n):
     if type(n) != int:
@@ -17,7 +17,7 @@ def  fibonacci(n):
 
 """
 Lucas: in this function, a sequence is generated based on the summation of the first two numbers, which are 2 and 1. 
-It is implemeneted using recursion with 2 base cases, 2 and 1.
+It is implemented using recursion with 2 base cases, 2 and 1.
 """
 def  lucas(n):
     if type(n) != int:
